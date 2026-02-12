@@ -1,3 +1,5 @@
+# Day 1 - Area Calculator Upgrade
+
 import math
 import os
 
